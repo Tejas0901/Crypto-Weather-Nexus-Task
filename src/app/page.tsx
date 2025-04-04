@@ -2,9 +2,9 @@
 
 import { useEffect } from 'react'
 import { useDispatch } from 'react-redux'
-import WeatherSection from '@/components/WeatherSection'
-import CryptoSection from '@/components/CryptoSection'
-import NewsSection from '@/components/NewsSection'
+import WeatherSection from '@/Components/WeatherSection'
+import CryptoSection from '@/Components/CryptoSection'
+import NewsSection from '@/Components/NewsSection'
 
 export default function Home() {
   return (
